@@ -13,7 +13,7 @@ Experimental camera effects for the Sony Ericsson W200i, created by modifying ca
 ![Effect 02](Effects/Effect-02/preview-02.JPG)
 
 ### Effect 03
-![Effect 03](Effects/Effect-03/preview-03.JPG)
+![Effect 03](Effects/Effect-03/preview-02.JPG)
 
 ### Effect 04
 ![Effect 04](Effects/Effect-04/preview-04.JPG)
