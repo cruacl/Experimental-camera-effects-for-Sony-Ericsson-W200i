@@ -4,22 +4,19 @@ Experimental camera effects for the Sony Ericsson W200i, created by modifying ca
 
 ## Effects
 
-### Original
-Unmodified Negative effect.
 
-![Original](Original/preview.jpg)
 
 ### Effect 01
-![Effect 01](Effects/Effect-01/preview-01.jpg)
+![Effect 01](Effects\Effect-01\preview-01.JPG)
 
 ### Effect 02
-![Effect 02](Effects/Effect-02/preview-02.jpg)
+![Effect 02](Effects\Effect-01\preview-02.JPG)
 
 ### Effect 03
-![Effect 03](Effects/Effect-03/preview-03.jpg)
+![Effect 03](Effects\Effect-01\preview-03.JPG)
 
 ### Effect 04
-![Effect 04](Effects/Effect-04/preview-04.jpg)
+![Effect 04](Effects\Effect-01\preview-04.JPG)
 
 
 ## Requirements
